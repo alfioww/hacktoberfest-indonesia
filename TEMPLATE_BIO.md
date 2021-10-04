@@ -5,7 +5,7 @@ andri
 
 ### Provisi & Kota
 
-Provinsi , Kota
+Jawabarat , Bogor
 
 ### Sekolah / Akademik
 
@@ -26,4 +26,4 @@ Provinsi , Kota
 
 ### Profile Link
 
-[Nama](https://github.com/driandri)
+alfian (https://github.com/alfioww)
